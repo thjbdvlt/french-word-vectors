@@ -104,3 +104,9 @@ Create the vectors for a pipeline from file:
 ```bash
 spacy init vectors fr model.word2vec vectors
 ```
+
+## download
+
+```bash
+wget https://github.com/thjbdvlt/french-word-vectors/releases/download/v0.3.1/vectors.bin
+```
